@@ -1,1 +1,1 @@
-https://github.com/teusteudev/Curriculo-Html-Css-Js
+https://roadmap.sh/projects/single-page-cv
